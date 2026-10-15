@@ -5,5 +5,7 @@ guess = int(input("Guess a number (1-100): "))
 
 if guess == answer:
     print("Correct!")
+elif guess<answer:
+    print("TOO LOW!")
 else:
-    print("Wrong! The answer was", answer)
+    print("TOO HIGH!")
