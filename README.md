@@ -5,3 +5,5 @@
 執行方式:在終端機輸入 `python guess.py`
 
 Authors: chenyien497-design, u11432206lssh.tp.edu.tw
+
+玩法:在終端機輸入 python guess.py 執行
